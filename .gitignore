@@ -11,4 +11,3 @@ recorded_audio.wav
 /static/response*.wav
 chat_history.json
 /__pycache__
-/uploads
